@@ -1,0 +1,52 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e6d7a9;
+    height: 10%;
+}
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+.nav-logo h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.nav-cate ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: unset;
+}
+.nav-cate li {
+    list-style-type: none;
+}
+.nav-cate {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.nav-search input {
+    border: 1px solid;
+}
+.nav-search button {
+    padding: 5px;
+    border-radius: 5px;
+}
+.nav-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.nav-login button {
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 10px;
+}
