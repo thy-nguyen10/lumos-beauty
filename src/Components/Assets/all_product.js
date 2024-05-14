@@ -33,7 +33,7 @@ let all_product = [
   {
     id: 1,
     name: "Kem nền Maybelline Tươi Mướt Chống Nắng SPF50 30ml #02",
-    category: "kem-nen",
+    category: "kemnen",
     image: p1_img,
     new_price: 188000,
     old_price: 228000,
@@ -41,7 +41,7 @@ let all_product = [
   {
     id: 2,
     name: "Phấn Má Hồng 02 Hồng Đào Ngọt Ngào Pink Peach 4.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p2_img,
     new_price: 150000,
     old_price: 168000,
@@ -49,7 +49,7 @@ let all_product = [
   {
     id: 3,
     name: "Phấn Má Hồng 05 French Marsala Màu Đỏ Hồng Đất 4.7g",
-    category: "ma-hong",
+    category: "mahong",
     image: p3_img,
     new_price: 149000,
     old_price: 225000,
@@ -65,7 +65,7 @@ let all_product = [
   {
     id: 5,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #112",
-    category: "kem-nen",
+    category: "kemnen",
     image: p5_img,
     new_price: 218000,
     old_price: 288000,
@@ -73,7 +73,7 @@ let all_product = [
   {
     id: 6,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #120",
-    category: "kem-nen",
+    category: "kemnen",
     image: p6_img,
     new_price: 218000,
     old_price: 288000,
@@ -81,7 +81,7 @@ let all_product = [
   {
     id: 7,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #110",
-    category: "kem-nen",
+    category: "kemnen",
     image: p7_img,
     new_price: 218000,
     old_price: 288000,
@@ -89,7 +89,7 @@ let all_product = [
   {
     id: 8,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #115",
-    category: "kem-nen",
+    category: "kemnen",
     image: p8_img,
     new_price: 218000,
     old_price: 288000,
@@ -97,7 +97,7 @@ let all_product = [
   {
     id: 9,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #118",
-    category: "kem-nen",
+    category: "kemnen",
     image: p9_img,
     new_price: 218000,
     old_price: 288000,
@@ -105,7 +105,7 @@ let all_product = [
   {
     id: 10,
     name: "Kem nền Maybelline Mịn Nhẹ Kiềm Dầu Chống Nắng 30ml #130",
-    category: "kem-nen",
+    category: "kemnen",
     image: p10_img,
     new_price: 218000,
     old_price: 288000,
@@ -113,7 +113,7 @@ let all_product = [
   {
     id: 11,
     name: "Kem Nền Maybelline 30H Lâu Trôi Che Phủ Cao 30ml #112 ",
-    category: "kem-nen",
+    category: "kemnen",
     image: p11_img,
     new_price: 239000,
     old_price: 298000,
@@ -121,7 +121,7 @@ let all_product = [
   {
     id: 12,
     name: "Kem Nền Maybelline 30H Lâu Trôi Che Phủ Cao 30ml #110",
-    category: "kem-nen",
+    category: "kemnen",
     image: p12_img,
     new_price: 239000,
     old_price: 298000,
@@ -129,7 +129,7 @@ let all_product = [
   {
     id: 13,
     name: "Phấn Nước Laneige Cho Lớp Nền Mịn Lì 24H #23N 15gx2",
-    category: "kem-nen",
+    category: "kemnen",
     image: p13_img,
     new_price: 795000,
     old_price: 900000,
@@ -137,7 +137,7 @@ let all_product = [
   {
     id: 14,
     name: "Phấn Nước Laneige Cho Lớp Nền Mịn Lì 24H #20N 15gx2",
-    category: "kem-nen",
+    category: "kemnen",
     image: p14_img,
     new_price: 795000,
     old_price: 900000,
@@ -145,7 +145,7 @@ let all_product = [
   {
     id: 15,
     name: "Má Hồng Lilybyred Dạng Kem 02 Innocent Pink - Hồng Baby 3.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p15_img,
     new_price: 149000,
     old_price: 225000,
@@ -153,7 +153,7 @@ let all_product = [
   {
     id: 16,
     name: "Má Hồng Lilybyred Dạng Kem 01 Loveable Coral - Hồng Cam Đào 3.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p16_img,
     new_price: 149000,
     old_price: 225000,
@@ -161,7 +161,7 @@ let all_product = [
   {
     id: 17,
     name: "Má Hồng Lilybyred Dạng Kem 03 Dollish Rose - Hồng Sữa 3.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p17_img,
     new_price: 149000,
     old_price: 225000,
@@ -169,7 +169,7 @@ let all_product = [
   {
     id: 18,
     name: "Phấn Má Hồng Maybelline Mịn Lì Chuẩn Màu 30 Fierce 4.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p18_img,
     new_price: 148000,
     old_price:  178000,
@@ -177,7 +177,7 @@ let all_product = [
   {
     id: 19,
     name: "Phấn Má Hồng Maybelline Mịn Lì Chuẩn Màu 20 Hopeful 4.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p19_img,
     new_price: 148000,
     old_price:  178000,
@@ -185,7 +185,7 @@ let all_product = [
   {
     id: 20,
     name: "Phấn Má Hồng Maybelline Mịn Lì Chuẩn Màu 10 Brave 4.5g",
-    category: "ma-hong",
+    category: "mahong",
     image: p20_img,
     new_price: 148000,
     old_price:  178000,
